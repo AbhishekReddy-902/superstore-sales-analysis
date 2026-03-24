@@ -59,7 +59,9 @@ regions, customer segments, and product categories.
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots here)
+![Dashboard Screenshot](Screenshot%2026-03-22%015508.png) ![Dashboard Screenshot](Screenshot%2026-03-22%015433.png)
+
+![Dashboard Screenshot](Screenshot%2026-03-22%015452.png).
 
 ---
 
